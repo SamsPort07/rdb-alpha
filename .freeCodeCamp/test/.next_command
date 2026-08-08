@@ -42,3 +42,9 @@ echo hello PostgreSQL
 echo hello PostgreSQL
 psql --username=freecodecamp --dbname=psotgres
 psql --username=freecodecamp --dbname=postgres
+SELECT * FROM characters
+\d characters
+\c mario_database
+fg
+psql --username=freecodecamp --dbname=postgres
+psql --username=freecodecamp --dbname=postgres
